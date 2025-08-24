@@ -1,11 +1,26 @@
-This project shows how to build an accurate and easy-to-understand machine learning model using Gradient Boosting.
+# Loan Approval Prediction
 
-The main goal is to follow best practices for:
+This project presents a **machine learning model** that automates the loan approval process by assessing applicant eligibility based on financial and personal data.  
 
-Handling categorical data (like labels or text),
+## Features
+- Developed a **machine learning model** to predict loan approval outcomes.  
+- Achieved **92% accuracy** using the **Gradient Boosting Classifier**.  
+- Applied **label encoding** to effectively handle categorical variables.  
+- Built a **Streamlit web app** for real-time loan approval predictions with a simple user-friendly interface.  
 
-Training a strong ensemble model,
+## Tools & Technologies
+- **Python**  
+- **Scikit-learn**  
+- **Pandas, NumPy**  
+- **Streamlit**  
 
-Understanding how the model makes decisions.
+## Workflow
+1. **Data Preprocessing** – Cleaned and transformed applicant financial and personal data.  
+2. **Feature Engineering** – Applied label encoding for categorical features.  
+3. **Model Training** – Used **Gradient Boosting Classifier**, achieving 92% accuracy.  
+4. **Deployment** – Developed a **Streamlit-based web interface** for end-user interaction.  
 
-The project starts by cleaning and preparing the data. Label Encoding is used to turn non-numerical values into numbers, so the model can work with them. Then, a Gradient Boosting Classifier is trained to make predictions based on the data.
+## Web App Preview
+*(Add screenshot here after uploading your Streamlit app image)*  
+
+
