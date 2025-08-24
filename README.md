@@ -20,7 +20,6 @@ This project presents a **machine learning model** that automates the loan appro
 3. **Model Training** – Used **Gradient Boosting Classifier**, achieving 92% accuracy.  
 4. **Deployment** – Developed a **Streamlit-based web interface** for end-user interaction.  
 
-## Web App Preview
-*(Add screenshot here after uploading your Streamlit app image)*  
+
 
 
